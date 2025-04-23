@@ -51,7 +51,6 @@ This project is built using modern, battle-tested technologies:
 - **FastAPI** – Blazing fast web framework with automatic OpenAPI docs.
 - **Uvicorn** – Lightweight ASGI server for performance and scalability.
 - **Pydantic** – Elegant data validation using Python type annotations.
-- **SQLAlchemy** – Powerful and flexible ORM with SQLite integration.
 - **SQLite3** – Embedded, zero-config database for development and small apps.
 - **PyJWT** – Secure JWT token encoding/decoding.
 
