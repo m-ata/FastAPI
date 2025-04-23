@@ -1,0 +1,6 @@
+# print(__file__)
+# print(__annotations__)
+# print(__build_class__)
+# print(__builtins__)
+print(__cached__)
+print(__spec__)
